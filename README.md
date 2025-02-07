@@ -41,7 +41,6 @@ The dataset used in this project is sourced from [Kaggle's Loan Approval Predict
   - Data Manipulation: `pandas`, `numpy`
   - Data Visualization: `matplotlib`, `seaborn`
   - Machine Learning: `scikit-learn`
-  - Model Deployment: `Flask` (if applicable)
 - **Development Environment:** Jupyter Notebook or any Python IDE
 
 ## Installation
